@@ -4,7 +4,7 @@
 soft_link="soft_link.txt"
 
 # Replace "target_file.txt" with the name of the target file for the soft link
-target_file="target_file.txt"
+target_file="target_link.txt"
 
 # Check if the soft link exists and is valid
 if [ -L "$soft_link" ] && [ -e "$soft_link" ]; then
