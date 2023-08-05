@@ -1,4 +1,4 @@
-#!/bin/bash
+#!/usr/bin/bash
 
 # Replace "soft_link.txt" with the name of your soft link
 soft_link="soft_link.txt"
