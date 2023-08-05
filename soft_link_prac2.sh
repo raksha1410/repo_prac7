@@ -1,10 +1,10 @@
 #!/bin/bash
 
 # Replace "soft_link.txt" with the name of your soft link
-soft_link="soft_link.txt"
+soft_link="https://github.com/raksha1410/repo_prac7/blob/main/soft_link.txt"
 
 # Replace "target_file.txt" with the name of the target file for the soft link
-target_file="target_file.txt"
+target_file="https://github.com/raksha1410/repo_prac7/blob/main/target_file.txt"
 
 # Check if the soft link exists and is valid
 if [ -L "$soft_link" ] && [ -e "$soft_link" ]; then
