@@ -1,4 +1,5 @@
 #!/bin/bash
+set -vx
 
 # Replace "soft_link.txt" with the name of your soft link
 soft_link="soft_link.txt"
