@@ -2,7 +2,7 @@
 set -vx
 
 # Replace "soft_link.txt" with the name of your soft link
-soft_link="soft_link.txt"
+soft_link="soft_link1.txt"
 
 # Replace "target_file.txt" with the name of the target file for the soft link
 target_file="target_link.txt"
